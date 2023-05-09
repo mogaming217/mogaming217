@@ -1,6 +1,6 @@
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/moga" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.87&b=3.48&i=3.89&b1=%23767676&b2=%23e1e1e1&i1=%23888888&i2=%23cccccc&l=en" width="400" ></a>  
-Last Updated on 5/8/2023, 12:05:56 AM
+Last Updated on 5/9/2023, 12:06:41 AM
 <!--END_SECTION:lapras-card-->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
